@@ -1,0 +1,21 @@
+.form {
+display: center;
+}
+
+
+
+.input{
+    
+    appearance: none;
+    -webkit-appearance: none;
+    color: #cac7c7;
+    display: center;
+    font-family: "Helvetica", arial, sans-serif;
+    font-size: 18px;
+    border:1px solid #ff0707;
+    background:#ecf0f1;
+    padding:5px;
+    display: inline-block;
+    visibility: visible ;
+
+}
